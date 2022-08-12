@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @polibat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oi eu sou @polibat
+- 👀 estou enterressado em aprender|
+- 🌱 eu vou me programar
+- 💞️ colaborarna aula e aprender
+- 📫 b.poliana@escola.pr.gov.br
 
 <!---
 polibat/polibat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
